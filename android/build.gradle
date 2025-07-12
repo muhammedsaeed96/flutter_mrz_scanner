@@ -56,6 +56,5 @@ dependencies {
     implementation 'cz.adaptech:tesseract4android:4.1.1'
 
     implementation 'androidx.appcompat:appcompat:1.5.1'
-//    implementation 'io.fotoapparat:fotoapparat:2.7.0'
-    implementation files('libs/fotoapparat-2.7.0')
+    implementation 'io.fotoapparat:fotoapparat:2.6.1'
 }
